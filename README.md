@@ -1,2 +1,2 @@
 # Luoa Coding Class Repository:
-# More comming soon.
+# More coming soon.
