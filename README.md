@@ -1,1 +1,2 @@
-# luoa-coding-club-hs
+# LUOA Coding Class Repository:
+# More coming soon.
